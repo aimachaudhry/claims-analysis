@@ -33,5 +33,11 @@ A sample of prospective claims data from May 2024 at Stony Brook University Hosp
    ```
 
 ## Key Findings
-### Part 1: Data Loading and Exploration 
+- The dataset contains 388 unique claims from Sept 2023 to May 2024
+- **Top providers**: SB INTERNISTS, SB SURGICAL ASSOCIATES, and NEW YORK SPINE AND BRAIN SURGERY billed the most claims
+- **Most common payers**: MEDICARE has ~62% of claims, then HEALTHFIRST FFS and FIDELIS/BETTER HEALTH PLAN
+- **Most Frequent diagnoses**: J96.01 (Acute respiratory failure)
+- **Top procedure**: 99291 (Critical Care, Initial Hour)
+- **Most claims are inpatient** 
+- **Average charges by location**: On-campus outpatient hospital claims are highest, followed by inpatient, office visits, and emergency room
 
